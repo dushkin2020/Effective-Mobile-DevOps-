@@ -27,7 +27,7 @@ sudo ./install_monitor.sh
 
 ## Проверка работы
 
-```bash
+bash
 systemctl status process-monitor.service
 systemctl list-timers | grep process-monitor
 tail -f /var/log/monitoring.log
