@@ -1,3 +1,4 @@
+
 # ⚙️ Effective Mobile DevOps  
 ### Тестовое задание для DevOps Junior
 
@@ -15,7 +16,9 @@
 
 ---
 
-## 🚀 Установка
+## 🚀 Установка и проверка работы 
+
+#Установка
 
 ```bash
 git clone https://gitlab.com/dushkin2020/effective-mobile-devops.git
