@@ -18,9 +18,8 @@
 
 ## 🚀 Установка и проверка работы 
 
-#Установка
-
 ```bash
+## Проверка работы
 git clone https://gitlab.com/dushkin2020/effective-mobile-devops.git
 cd effective-mobile-devops-test
 chmod +x install_monitor.sh
@@ -29,8 +28,6 @@ sudo ./install_monitor.sh
 ---
 
 ## Проверка работы
-
-```bash
 systemctl status process-monitor.service
 systemctl list-timers | grep process-monitor
 tail -f /var/log/monitoring.log
