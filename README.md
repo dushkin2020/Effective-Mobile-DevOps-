@@ -19,7 +19,7 @@
 ## 🚀 Установка и проверка работы 
 
 ```bash
-## Проверка работы
+## Установка
 git clone https://gitlab.com/dushkin2020/effective-mobile-devops.git
 cd effective-mobile-devops-test
 chmod +x install_monitor.sh
