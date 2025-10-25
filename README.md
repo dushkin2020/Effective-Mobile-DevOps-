@@ -23,6 +23,8 @@ cd effective-mobile-devops-test
 chmod +x install_monitor.sh
 sudo ./install_monitor.sh
 
+---
+
 ## Проверка работы
 
 ```bash
