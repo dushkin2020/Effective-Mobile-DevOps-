@@ -37,4 +37,3 @@ tail -f /var/log/monitoring.log
 DevOps Junior — Effective Mobile
 GitLab: [@dushkin2020](https://gitlab.com/dushkin2020)
 
-![Просмотров](https://img.shields.io/badge/Просмотров-0-blue)
