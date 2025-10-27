@@ -1,3 +1,5 @@
+![View Count](https://komarev.com/ghpvc/?username=dushkin2020-effective-mobile-devops&label=Просмотры&color=0e75b6&style=flat)
+
 
 # ⚙️ Effective Mobile DevOps  
 ### Тестовое задание для DevOps Junior
@@ -32,4 +34,4 @@ systemctl status process-monitor.service
 systemctl list-timers | grep process-monitor
 tail -f /var/log/monitoring.log
 
-![View Count](https://komarev.com/ghpvc/?username=dushkin2020-effective-mobile-devops&label=Просмотры&color=0e75b6&style=flat)
+
