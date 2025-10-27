@@ -33,8 +33,8 @@ systemctl list-timers | grep process-monitor
 tail -f /var/log/monitoring.log
 ```
 
-**Автор:**  
-DevOps Junior — Effective Mobile  
+**Автор:**
+DevOps Junior — Effective Mobile
 GitLab: [@dushkin2020](https://gitlab.com/dushkin2020)
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://gitlab.com/dushkin2020/effective-mobile-devops&title=visits)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://gitlab.com/dushkin2020/effective-mobile-devops&title=Просмотры)
