@@ -37,4 +37,4 @@ tail -f /var/log/monitoring.log
 DevOps Junior — Effective Mobile
 GitLab: [@dushkin2020](https://gitlab.com/dushkin2020)
 
-![Просмотры](https://komarev.com/ghpvc/?username=dushkin2020-effective-mobile-devops&label=Просмотры&color=0e75b6&style=flat)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgitlab.com%2Fdushkin2020%2Feffective-mobile-devops&title=Просмотры)
